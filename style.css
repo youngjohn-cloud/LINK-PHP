@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+body , ul , a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+header {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+header ul{
+    display: flex;
+    gap: 20px;
+}
+header h1 {
+    font-family: Verdana;
+    font-size: 35px;
+    font-weight: 700;
+    color: crimson;
+}
+header ul li a {
+    color: rgb(66, 63, 63);
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.contain h3 {
+    color: orangered;
+    font-size: 21px;
+    font-weight: lighter;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+.contain h1 {
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-size: 3em;
+}
+.contain p {
+    color: rgb(241, 235, 224);
+    font-size: small;
+    font-family: Arial;
+    line-height: 1.8em;
+}
+.contain{
+    background: rgb(57, 56, 56);
+    padding: 50px 100px;
+}
+.bg-items img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.e-h2 h2 {
+    color: #998168;
+    font-family: system-ui;
+    text-transform: uppercase;
+    font-size: 36px;
+    text-align: center;
+}
+.bg-contain {
+    background-color: #b1b8a9;
+    padding: 30px;
+    width: fit-content;
+}
+
+.bg-items h5{
+    color: white;
+    border-top: 4px solid #deb96a;
+    padding-top: 10px;
+    width: fit-content;
+}
+.bg-items p{
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 400;
+    color: #968b72;
+    background: white;
+    padding: 10px;
+    max-width: 250px;
+}
+.flex-cont{
+    display: flex;
+    gap: 10px;
+}
+.enrol-sect {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.w-items p{
+    color: blue;
+}
