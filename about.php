@@ -11,5 +11,8 @@
 </head>
 <body>
     <h1 id="one">hello</h1>
+    <?php
+    include('footer.php');
+?>
 </body>
 </html>

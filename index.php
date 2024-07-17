@@ -54,20 +54,143 @@
         </div>
     </div>
 </section>
-<section>
-    <div class="w-contain">
-        <div class="flex-w">
-            <img class=".image" src="./temple.png" >
-            <div class="w-items">
+
+    <section>
+        <div class="container">
+        <div class="container-flex">
+            <img src="https://www.templeschoolng.com/wp-content/uploads/2023/10/sec.png" alt="" />
+            <div class="container-item">
                 <h4>WELCOME TO</h4>
                 <h3>TEMPLE SCHOOL</h3>
-                <h5>Temple School is an all-inclusive school on four sites – two in Ilupeju and two in Ikeja and Allen Avenue.</h5>
-                <p>Early Years & Primary: Nurturing young minds in serene Ilupeju, our Early Years program unlocks curiosity, while our Primary curriculum lays a strong foundation for success.
-                Secondary & College: Our dynamic Ikeja and Allen Avenue campuses boast cutting-edge facilities that ignite creativity and collaboration. Spacious fields and dedicated common areas promote well-being and connection.Convenience & Quality: Wherever your child learns, expect a safe, secure environment and easily accessible locations within the Lagos mainland.Temple School: Where a world-class education awaits.</p>
+                <span class="myspan"></span>
+                <div class="headline">
+                    <p><b>Temple School is an all-inclusive school on four sites – two in Ilupeju and two in Ikeja and Allen Avenue.</b></p>
+                </div>
+                    <p>Temple School isn’t just one school, it’s a network of excellence across Lagos, offering world-class education for every stage of your child’s journey.</p>
+                    <p><b>Early Years & Primary: </b>Nurturing young minds in serene Ilupeju, our Early Years program unlocks curiosity, while our Primary curriculum lays a strong foundation for success.</p>
+                    <p><b>Secondary & College:</b> Our dynamic Ikeja and Allen Avenue campuses boast cutting-edge facilities that ignite creativity and collaboration. Spacious fields and dedicated common areas promote well-being and connection.</p>
+                    <p><b>Convenience & Quality: </b> Wherever your child learns, expect a safe, secure environment and easily accessible locations within the Lagos mainland.</p>
+                    <p><b>Temple School: Where a world-class education awaits.</b></p>
+                <div class="btnwrap">
+                <li><a href="">About us</a></li>
+                </div>
             </div>
         </div>
-    </div>
-</section>
-
+        </div>
+        </section>
+    <section class="img-bg">
+    <div class="img-div">
+        <div class="img-content">
+            <h3>NURTURING FUTURE LEADERS <br /> THROUGH WORK AND PLAY</h3>
+            <h2>TAKE A SCHOOL TOUR</h2>
+        </div>
+        <div class="img-container">
+            <div class="img-item">
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/DSC_0989-300x200.jpg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2024/02/2.png"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/Fun-Work-2.jpeg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/Fun-Work-2.jpeg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2023/02/Safeguarding.jpg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/09/1.png"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/Project.jpeg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2024/02/3.png"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/secondary-working-1.jpeg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2024/02/Untitled-design-1.png"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/Secondary-working.jpeg"/>
+                <img src="https://www.templeschoolng.com/wp-content/uploads/2022/01/DSC_1127-scaled.jpg"/>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="news-cont">
+            <div class="news-item">
+                <h2>Subscribe to our Newsletter <br /> and be the first to know on <br /> anything and everything</h2>
+                <div class="news-form">
+                    <form action="">
+                        <input type="email" placeholder="Email Address" />
+                        <button>Subscribe</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-blog">
+        <div class="contain-blog">
+            <div class="blog-item">
+                <h3>FROM TEMPLE SCHOOL BLOG</h3>
+                <p>You will be pleased to know that we will continue to keep you up to date with the <br> daily life at our school, through a series of blogs written by staff and students.</p>
+            </div>
+                <div class="flex-blog">
+                    <div class="div-fimage">
+                        <img src="https://www.templeschoolng.com/wp-content/uploads/2023/02/TPS-Information-Pack-400x225.jpg" alt="">
+                        <div class="temple-h3">
+                            <h3>Temple Preparatory Information <br> Pack</h3>
+                        </div>
+                        <div class="date">
+                            <span class="span-date">01/02/2023</span>
+                        </div>
+                    </div>
+                    <div class="div-fimage">
+                        <img src="https://www.templeschoolng.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-20-at-08.43.19-400x400.jpeg" alt="">
+                        <div class="temple-h3">
+                            <h3>An Admirable Record of <br>Academic Excellence</h3>
+                        </div>
+                        <div class="date">
+                            <span class="span-date">24/09/2021</span>
+                        </div>
+                    </div>
+                    <div class="div-fimage">
+                        <img src="https://www.templeschoolng.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-04-at-18.55.19-2-400x265.jpeg" alt="">
+                        <div class="temple-h3">
+                            <h3>TEMPLE ALUMNUS FEATURE <br>MARCH 2021 – Chukwunonso Nzenwa</h3>
+                        </div>
+                        <div class="date">
+                            <span class="span-date">30/03/2021</span>
+                        </div>
+                    </div>
+                </div>
+            <div class="btn-wrap">
+                <button class="btn">Load More</button>
+            </div>    
+        </div>
+    </section>
+    <section class="sect-count">
+        <div class="say-h3">
+            <h3>THE NUMBERS SAY IT ALL</h3>
+            <h2>WHY TEMPLE SCHOOL</h2>
+        </div>
+        <div class="count-flex">
+           <div class="num-item1">
+           <h1 class="num">4</h1>
+           <h2 class="num-l">CERTIFIED <br>
+           SCHOOLS</h2>
+           </div>
+           <div class="num-item1">
+           <h1 class="num">8k</h1>
+           <h2 class="num-l">LIFETIME <br> ENROLMENT</h2>
+           </div>
+           <div class="num-item1">
+           <h1 class="num">99</h1>
+           <h2 class="num-l">PASS RATE TO <br>UNIVERSITIES</h2>
+           </div>
+           <div class="num-item1">
+           <h1 class="num">100</h1>
+           <h2 class="num-l">SATISFIED <br>PARENTS</h2>
+           </div>
+        </div>
+    </section>
+    <section class="schedule">
+        <div class="flex-schedule">
+            <div class="h2-schedule">
+                <h2>Schedule a visit at Temple School</h2>
+            </div>
+           <div class="btn-visit">
+            <a href="">Schedule a vist </a>
+           </div>
+        </div>
+    </section>
+<?php
+    include('footer.php');
+?>
 </body>
 </html>
